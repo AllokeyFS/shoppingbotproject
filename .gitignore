@@ -1,6 +1,7 @@
 __pycache__/
 venv/
 mydb.db
+.env
 database/__pycache__/
 handlers/__pycache__/
 keyboards/__pycache__/
